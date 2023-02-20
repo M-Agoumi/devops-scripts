@@ -1,3 +1,4 @@
+#!/bin/bash
 ## updating repos
 if [ "$EUID" -ne 0 ]
 	echo "you will be prompt to enter sudo password"
